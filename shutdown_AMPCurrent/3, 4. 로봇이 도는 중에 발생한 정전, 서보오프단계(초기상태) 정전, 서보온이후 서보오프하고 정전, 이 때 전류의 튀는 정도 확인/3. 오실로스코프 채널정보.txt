@@ -1,0 +1,8 @@
+C1 : U7 출력전류
+C2 : U7 IPM 하단스위칭
+C3 : PWM_UP7
+C4 : +15V
+C5 : -15V
+C6 : PWM_UN7
+C7 : FD7
+C8 : PN전압
